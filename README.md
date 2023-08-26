@@ -3,4 +3,4 @@ The app is based on running image captioning using the Salesforce BLIP (Bootstra
 
 Run Code `modal run stable_diffusion_cli.py`
 
-[[https://drive.google.com/file/d/1x5rVwsMrFbUPeWwLWdVXOsCBwwcUr-tB/view?usp=sharing]]
+[]([https://drive.google.com/file/d/1x5rVwsMrFbUPeWwLWdVXOsCBwwcUr-tB/view?usp=sharing])
